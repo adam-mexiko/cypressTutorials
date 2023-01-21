@@ -1,2 +1,3 @@
-# cypressTutorials
-Here you can find the source-code of my cypress tutorials!
+# Cypress Tutorials
+
+Navigate between branches to view the source-code of different videos.
